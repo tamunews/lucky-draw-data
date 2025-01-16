@@ -33,5 +33,23 @@
       "blo***er"
     ],
     "schedule": "2025-01-17T01:05"
+  },
+  {
+    "date": "17 Januari 2025",
+    "realWinners": [
+      "kha***ya",
+      "dap***oy",
+      "fer***03",
+      "sis***to",
+      "ary***24"
+    ],
+    "fakeWinners": [
+      "ees***54",
+      "rad***45",
+      "swe***er",
+      "bel***77",
+      "dar***32"
+    ],
+    "schedule": "2025-01-17T01:06"
   }
 ]
